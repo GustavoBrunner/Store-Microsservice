@@ -942,11 +942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetosDotNet\\ApiMicrosservice\\Vshow.web\\Vshow.web.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
       "projectName": "Vshow.web",
-      "projectPath": "D:\\ProjetosDotNet\\ApiMicrosservice\\Vshow.web\\Vshow.web.csproj",
+      "projectPath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetosDotNet\\ApiMicrosservice\\Vshow.web\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
