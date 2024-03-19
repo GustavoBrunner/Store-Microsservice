@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d6ZTzVQl2snaq4b3tF+pUX0b/7LRlKL8OB6rcfhkf/OUCoQfLcI0qNPIAaj/Bx/E4HRYVF+EaQGXMg05zvWV1A==",
+  "dgSpecHash": "6XG88WcrPwT/EmNaLUaHjBjcekE2/2i9lDIu+WlCT7LN7AMP37wBStyore0duXPYyIK1iIFlYK2tae2iIeAdAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj",
+  "projectFilePath": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

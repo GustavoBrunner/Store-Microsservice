@@ -44,22 +44,16 @@ public class ProductService : IProductService
         }
     }
 
-    public async Task<ProductViewModel> DeleteProductById(int id)
+    public async Task<bool> DeleteProductById(int id)
     {
         var client = _httpClientFactory.CreateClient("ProductApi");
 
         using (var clientResponse = await client.GetAsync(_apiEndpoint + id)) {
             if(clientResponse.IsSuccessStatusCode){
-                var apiResponse = await clientResponse.Content.ReadAsStreamAsync();
-
-                _productVM = await JsonSerializer
-                    .DeserializeAsync<ProductViewModel>(apiResponse, _options);
-            }
-            else{
-                return null;
+                return true;
             }
         }
-        return _productVM;
+        return false;
     }
 
     public async Task<IEnumerable<ProductViewModel>> GetAllProducts()

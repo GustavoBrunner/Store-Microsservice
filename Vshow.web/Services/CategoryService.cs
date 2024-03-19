@@ -76,20 +76,16 @@ public class CategoryService : ICategoryService
         return _categoryVM;
     }
 
-    public async Task<CategoryViewModel> DeleteCategory(int id)
+    public async Task<bool> DeleteCategory(int id)
     {
         var client = _httpClientFactory.CreateClient("ProductApi");
 
         using ( var response = await client.GetAsync(_apiEndPoint + id)){
             if(response.IsSuccessStatusCode){
-                var responseApi = await response.Content.ReadAsStreamAsync();
-
-                _categoryVM = await JsonSerializer
-                    .DeserializeAsync<CategoryViewModel>(responseApi, _options);
+                return true;
             }
-            else{ return null; }
         }
-        return _categoryVM;
+        return false;
     }
 
 

@@ -11,6 +11,6 @@ public interface ICategoryService{
 
     Task<CategoryViewModel> UpdateCategory(CategoryViewModel categoryViewModel);
 
-    Task<CategoryViewModel> DeleteCategory(int id);
+    Task<bool> DeleteCategory(int id);
 
 }

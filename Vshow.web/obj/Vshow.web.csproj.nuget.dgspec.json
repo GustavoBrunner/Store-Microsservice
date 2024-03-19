@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj": {}
+    "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj": {
+    "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
+        "projectUniqueName": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
         "projectName": "Vshow.web",
-        "projectPath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
+        "projectPath": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\obj\\",
+        "outputPath": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

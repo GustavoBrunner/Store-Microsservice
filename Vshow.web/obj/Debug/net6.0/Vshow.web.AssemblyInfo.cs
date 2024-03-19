@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vshow.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed029cae292d2d5eb9688e84e0d5d5be2855a802")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b022aa37e54a5f9390a1deabe259bbd9d94eaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vshow.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vshow.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

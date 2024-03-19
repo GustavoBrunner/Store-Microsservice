@@ -12,5 +12,5 @@ public interface IProductService{
 
     Task<ProductViewModel> CreateProduct(ProductViewModel productViewModel);
 
-    Task<ProductViewModel> DeleteProductById(int id);
+    Task<bool> DeleteProductById(int id);
 }

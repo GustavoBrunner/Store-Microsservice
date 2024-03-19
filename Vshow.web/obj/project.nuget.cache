@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TkP2PiH9FX2LddEgbGEFaNXaieupTOxa9QXxrAbbsVSbRCWPJ8jWcxQwYS8ubB8DbvxxTNF0tS6A2Olbiu754A==",
+  "dgSpecHash": "Gd7krBvYStc1gom4BPz4dsMfP3qCgRPtY6OE3Z7VnE21wh8P9TCeyNXabbeLpSqlNOPJhKuKDgdGSmKl9ITdiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
+  "projectFilePath": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Vshow.web\\Vshow.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.28\\microsoft.aspnetcore.mvc.razor.extensions.6.0.28.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.28\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.28.nupkg.sha512",

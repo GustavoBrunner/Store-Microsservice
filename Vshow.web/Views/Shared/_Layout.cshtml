@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+@{
+    var actualController = ViewContext.RouteData.Values["controller"].ToString();
+    var homeControllerClass = actualController == "Home" ? "active" : "";
+    var productControllerClass = actualController == "Product" ? "active" : "";
+    var categoryControllerClass = actualController == "Category" ? "active" : "";
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store-Microsservice :: @ViewBag.Subtitulo</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand">Store-Microsservice</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMain">
+                <div class="navbar-nav ms-auto">
+                    <a class="nav-link @homeControllerClass" asp-controller="Home" asp-action="Index">Principal</a>
+                    <a class="nav-link @productControllerClass" asp-controller="Produto" 
+                        asp-action="Index">Products</a>
+                    <a class="nav-link @categoryControllerClass" asp-controller="Categoria"
+                        asp-action="Index">Categories</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+</body>
+
+</html>

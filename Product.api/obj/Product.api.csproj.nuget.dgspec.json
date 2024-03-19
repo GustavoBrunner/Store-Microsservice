@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj": {}
+    "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj": {
+    "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj",
+        "projectUniqueName": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj",
         "projectName": "Product.api",
-        "projectPath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj",
+        "projectPath": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\Product.api.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\obj\\",
+        "outputPath": "c:\\Users\\gusta\\Documents\\Github\\Store-Microsservice\\Store-Microsservice\\Product.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
